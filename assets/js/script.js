@@ -1,3 +1,4 @@
+// Create a politician 
 var createPolitician = function(name, partyColor){
 	var politician = {};
 
@@ -7,7 +8,6 @@ var createPolitician = function(name, partyColor){
 	politician.partyColor = partyColor;
 
 	return politician;
-
 };
 
 var candidate1 = createPolitician("Cat in the Hat", [245, 141, 136]);
