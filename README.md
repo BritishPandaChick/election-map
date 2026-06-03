@@ -1,16 +1,15 @@
-# Election Map
-Skillcrush 102 bonus project. Election Map.
+# Election Map Project
+Skillcrush 102 bonus project, This is an interactive election map that shows which candidates won each state and who won the election.
 
-## Dependencies
+## Tech Stack
 - HTML
 - CSS
 - JavaScript
 
 ## Instructions
-Clone or download zip file. Open index.html file in your browser. Move your mouse over the map to see which candidates won each state. Look at the table on top to see who won the election.
-
-## Contributing
-This repository is based on a design created by Skillcrush and DOUGX.NET. Therefore I will not be accepting any pull requests.
+1. Clone or download zip file. 
+2. Open index.html file in your browser. 
+2. Move your mouse over the map to see which candidates won each state. Look at the table on top to see who won the election. These numbers will change as you look at each state.
 
 ## Acknowledgements
 * Skillcrush
